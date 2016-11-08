@@ -18,7 +18,7 @@ Newline bytes
 </tr>
 <tr>
 <th>
-Microsoft Windows / MS-DOW
+Microsoft Windows / MS-DOS
 </th><th>
 0D<sub>h</sub> 0A<sub>h</sub>
 </th>
