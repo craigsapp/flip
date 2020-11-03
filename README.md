@@ -1,4 +1,3 @@
-==================
 Newline converter between Unix, Macintosh and MS-DOS ASCII files
 ==================
 
